@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="springMvcFinalliyTest3"
+  id="myeclipse.1461803131596"
+  context-root="/springMvcFinalliyTest3"
+  j2ee-spec="5.0"
+  archive="springMvcFinalliyTest3.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
